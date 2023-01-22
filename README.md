@@ -3,7 +3,6 @@
 ### Author: Guido Cattani ###
 ### Date: 21 January 2023 ###
 ### License: MIT ###
-\
 #### This literature study aims to investigate the maximum hearing levels and vibrotactile thresholds of bone vibrators. ####
 A resume of the study methodology, results, conclusion and proposal can be found in the 'Abstract' text file.\
 The literature used in the study can be found in the 'Bibliography' text file.\
